@@ -4485,7 +4485,7 @@ input[type=submit].btn-block {
 }
 
 .nav-link.disabled {
-    color: #6c757d;
+    color: #919191;
     pointer-events: none;
     cursor: default
 }
@@ -4510,7 +4510,7 @@ input[type=submit].btn-block {
 }
 
 .nav-tabs .nav-link.disabled {
-    color: #6c757d;
+    color: #919191;
     background-color: transparent;
     border-color: transparent
 }

@@ -802,7 +802,7 @@ button:not(:disabled) {
 }
 
 .nav-pills .nav-link {
-  color: #3c4858 !important;
+  color: #b3b3b3!important;
   margin: auto 15px;
   border: 1px solid #dee2e6;
   padding: 5px;
@@ -970,7 +970,7 @@ body {
   font-family: "Nunito", sans-serif;
   overflow-x: hidden !important;
   font-size: 16px;
-  color: #161c2d;
+  color: #919191 ;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
