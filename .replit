@@ -1,0 +1,2 @@
+language = "html"
+run = "cd js && run app.js"
