@@ -52,7 +52,7 @@ a:hover {
 }
 
 .text-primary {
-  color: 	#e97eff!important;
+  color: 	#Fa67b2!important;
 }
 
 .bg-secondary {
@@ -100,7 +100,7 @@ a:hover {
 }
 
 .text-dark {
-  color: #3c4858 !important;
+  color: #FFFFFF !important;
 }
 
 .bg-muted {
@@ -112,7 +112,7 @@ a:hover {
 }
 
 .bg-light {
-  background-color: #f8f9fc !important;
+  background-color: #000000 !important;
 }
 
 .text-light {
@@ -169,8 +169,8 @@ a:hover {
 }
 
 .btn-outline-primary {
-  border: 1px solid #2f55d4;
-  color: #2f55d4;
+  border: 1px solid #cc3366;
+  color: #cc3366;
   background-color: transparent;
 }
 
@@ -318,8 +318,8 @@ a:hover {
 }
 
 .btn-dark {
-  background-color: #3c4858 !important;
-  border: 1px solid #3c4858 !important;
+  background-color: #FFFFFF !important;
+  border: 1px solid #FFFFFF !important;
   color: #ffffff !important;
   -webkit-box-shadow: 0 3px 5px 0 rgba(60, 72, 88, 0.3);
           box-shadow: 0 3px 5px 0 rgba(60, 72, 88, 0.3);
@@ -331,14 +331,14 @@ a:hover {
 }
 
 .btn-outline-dark {
-  border: 1px solid #3c4858;
-  color: #3c4858;
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
   background-color: transparent;
 }
 
 .btn-outline-dark:hover, .btn-outline-dark:focus, .btn-outline-dark:active, .btn-outline-dark.active, .btn-outline-dark.focus, .btn-outline-dark:not(:disabled):not(.disabled):active {
-  background-color: #3c4858;
-  border-color: #3c4858;
+  background-color: #FFFFFF;
+  border-color: #FFFFFF;
   color: #ffffff;
   -webkit-box-shadow: 0 3px 5px 0 rgba(60, 72, 88, 0.3);
           box-shadow: 0 3px 5px 0 rgba(60, 72, 88, 0.3);
@@ -430,19 +430,19 @@ a:hover {
 }
 
 .btn.btn-light {
-  color: #3c4858 !important;
+  color: #FFFFFF !important;
   background: #f8f9fc;
   border: 1px solid #dee2e6;
 }
 
 .btn.btn-light:hover, .btn.btn-light:focus, .btn.btn-light:active, .btn.btn-light.active, .btn.btn-light.focus {
   background-color: #d4daed !important;
-  color: #3c4858;
+  color: #FFFFFF;
 }
 
 .btn.btn-outline-light {
   border: 1px solid #dee2e6;
-  color: #3c4858;
+  color: #FFFFFF;
   background-color: transparent;
 }
 
@@ -526,14 +526,14 @@ button:not(:disabled) {
 }
 
 .badge-dark {
-  background-color: #3c4858 !important;
+  background-color: #FFFFFF !important;
   color: #ffffff !important;
 }
 
 .badge-outline-dark {
   background-color: transparent !important;
-  color: #3c4858 !important;
-  border: 1px solid #3c4858 !important;
+  color: #FFFFFF !important;
+  border: 1px solid #FFFFFF !important;
 }
 
 .badge-muted {
@@ -565,12 +565,12 @@ button:not(:disabled) {
 }
 
 .badge.badge-light {
-  color: #3c4858 !important;
+  color: #FFFFFF !important;
   background-color: #f8f9fc !important;
 }
 
 .badge.badge-outline-light {
-  color: #3c4858 !important;
+  color: #FFFFFF !important;
   border: 1px solid #b1bcdd !important;
   background-color: transparent !important;
 }
@@ -643,7 +643,7 @@ button:not(:disabled) {
 .alert-dark {
   background-color: #465467;
   color: #ffffff;
-  border-color: #3c4858;
+  border-color: #FFFFFF;
 }
 
 .alert-dark .alert-link {
@@ -677,7 +677,7 @@ button:not(:disabled) {
 
 .alert.alert-light {
   background-color: #f8f9fc;
-  color: #3c4858;
+  color: #FFFFFF;
   border-color: #dee2e6;
 }
 
@@ -707,7 +707,7 @@ button:not(:disabled) {
 .page-next-level .page-next li:after {
   content: "\f142";
   font-size: 16px;
-  color: #3c4858;
+  color: #FFFFFF;
   font-family: 'Material Design Icons';
 }
 
@@ -774,7 +774,7 @@ button:not(:disabled) {
   display: block;
   font-family: 'Material Design Icons';
   font-size: 18px;
-  color: #3c4858;
+  color: #FFFFFF;
   position: absolute;
   right: 20px;
   top: 50%;
@@ -786,7 +786,7 @@ button:not(:disabled) {
 
 .faq-content .card a.faq[data-toggle=collapse].collapsed {
   background-color: #ffffff;
-  color: #3c4858;
+  color: #FFFFFF;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 }
@@ -802,7 +802,7 @@ button:not(:disabled) {
 }
 
 .nav-pills .nav-link {
-  color: #3c4858 !important;
+  color: #FFFFFF !important;
   margin: auto 15px;
   border: 1px solid #dee2e6;
   padding: 5px;
@@ -914,7 +914,7 @@ button:not(:disabled) {
 .subcribe-form input {
   padding: 14px 20px;
   width: 100%;
-  color: #3c4858 !important;
+  color: #FFFFFF !important;
   border: none;
   outline: none !important;
   padding-right: 160px;
@@ -970,7 +970,7 @@ body {
   font-family: "Nunito", sans-serif;
   overflow-x: hidden !important;
   font-size: 16px;
-  color: #161c2d;
+  color: #ece2e2;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
@@ -1199,8 +1199,8 @@ p {
 }
 
 .social-icon li a {
-  color: #3c4858;
-  border: 1px solid #3c4858;
+  color: #FFFFFF;
+  border: 1px solid #FFFFFF;
   display: inline-block;
   height: 32px;
   text-align: center;
@@ -1233,7 +1233,7 @@ p {
   height: 33px;
   line-height: 33px;
   display: none;
-  color: #3c4858;
+  color: #FFFFFF;
   background-color: #ced4da;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
@@ -1324,7 +1324,7 @@ p {
 
 #topnav .logo {
   float: left;
-  color: #3c4858 !important;
+  color: #FFFFFF !important;
 }
 
 #topnav .has-submenu.active a {
@@ -1344,7 +1344,7 @@ p {
 }
 
 #topnav .has-submenu .submenu .submenu-arrow {
-  border: solid #3c4858;
+  border: solid #FFFFFF;
   border-radius: 0.5px;
   border-width: 0 2px 2px 0;
   display: inline-block;
@@ -1376,7 +1376,7 @@ p {
 #topnav .navbar-toggle span {
   height: 2px;
   width: 100%;
-  background-color: #3c4858;
+  background-color: #FFFFFF;
   display: block;
   margin-bottom: 5px;
   -webkit-transition: -webkit-transform .5s ease;
@@ -1440,7 +1440,7 @@ p {
 
 #topnav .navigation-menu > li > a {
   display: block;
-  color: #3c4858;
+  color: #FFFFFF;
   font-size: 13px;
   background-color: transparent !important;
   font-weight: 700;
@@ -1459,7 +1459,7 @@ p {
 }
 
 #topnav .navigation-menu .has-submenu .menu-arrow {
-  border: solid #3c4858;
+  border: solid #FFFFFF;
   border-radius: 0.5px;
   border-width: 0 2px 2px 0;
   display: inline-block;
@@ -1485,7 +1485,7 @@ p {
 }
 
 #topnav.scroll .navigation-menu > li > a, #topnav.scroll-active .navigation-menu > li > a, #topnav.dark-menubar .navigation-menu > li > a {
-  color: #3c4858;
+  color: #FFFFFF;
 }
 
 #topnav.scroll .navigation-menu > li > a:hover, #topnav.scroll-active .navigation-menu > li > a:hover, #topnav.dark-menubar .navigation-menu > li > a:hover {
@@ -1602,7 +1602,7 @@ p {
     text-transform: uppercase;
     letter-spacing: 0.04em;
     font-weight: 700;
-    color: #3c4858;
+    color: #FFFFFF;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
   }
@@ -1686,7 +1686,7 @@ p {
     font-size: 11px;
     letter-spacing: 0.04em;
     font-weight: 700;
-    color: #3c4858;
+    color: #FFFFFF;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
   }
@@ -1714,7 +1714,7 @@ p {
     color: #8492a6;
   }
   #topnav .navigation-menu > li > a {
-    color: #3c4858;
+    color: #FFFFFF;
     padding: 10px 20px;
   }
   #topnav .navigation-menu > li > a:after {
@@ -2133,7 +2133,7 @@ p {
   margin-left: -3px;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  border: 8px solid #3c4858;
+  border: 8px solid #FFFFFF;
   border-color: transparent #ffffff #ffffff transparent;
   -webkit-transform-origin: 0 0;
           transform-origin: 0 0;
@@ -2422,7 +2422,7 @@ p {
 }
 
 .sidebar .widget .catagories li a {
-  color: #3c4858;
+  color: #FFFFFF;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
 }
@@ -2450,7 +2450,7 @@ p {
 
 .sidebar .widget .post-recent .post-recent-content a {
   display: block;
-  color: #3c4858;
+  color: #FFFFFF;
   font-size: 15px;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
@@ -2466,7 +2466,7 @@ p {
 
 .sidebar .widget .tagcloud > a {
   background: #e9ecef;
-  color: #3c4858;
+  color: #FFFFFF;
   display: inline-block;
   font-size: 9px;
   letter-spacing: 1px;
@@ -2523,7 +2523,7 @@ p {
 .pagination li a {
   float: left;
   text-decoration: none;
-  color: #3c4858;
+  color: #FFFFFF;
   border: 1px solid #dee2e6;
   border-left-width: 0;
   background: #ffffff;
@@ -2643,7 +2643,7 @@ p {
   opacity: 0;
   -webkit-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  background-color: #3c4858;
+  background-color: #FFFFFF;
   z-index: 1;
 }
 
