@@ -1440,7 +1440,7 @@ p {
 
 #topnav .navigation-menu > li > a {
   display: block;
-  color: #FFFFFF;
+  color: #FAA0CE;
   font-size: 13px;
   background-color: transparent !important;
   font-weight: 700;
@@ -1602,7 +1602,7 @@ p {
     text-transform: uppercase;
     letter-spacing: 0.04em;
     font-weight: 700;
-    color: #FFFFFF;
+    color: #000000;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
   }
@@ -1686,7 +1686,7 @@ p {
     font-size: 11px;
     letter-spacing: 0.04em;
     font-weight: 700;
-    color: #FFFFFF;
+    color: #000000;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
   }
@@ -1714,7 +1714,7 @@ p {
     color: #8492a6;
   }
   #topnav .navigation-menu > li > a {
-    color: #FFFFFF;
+    color: #FAA0CE;
     padding: 10px 20px;
   }
   #topnav .navigation-menu > li > a:after {
